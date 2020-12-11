@@ -8,11 +8,11 @@ the only changes you have to make to the code is in the "2B2T Alert System - Not
 Simply right-click on that file, hit edit and input your email infornmation as shown below.
 
 
-**>>2b2t.vbs echo oMsg.From = "YOUR GMAIL HERE"
+>>2b2t.vbs echo oMsg.From = "YOUR GMAIL HERE"
 >>2b2t.vbs echo oMsg.To = "YOUR EMAIL HERE"**
         
         
-**>>2b2t.vbs echo oConf.Fields(schema ^& "sendusername") = "YOUR GMAIL HERE"
+>>2b2t.vbs echo oConf.Fields(schema ^& "sendusername") = "YOUR GMAIL HERE"
 >>2b2t.vbs echo oConf.Fields(schema ^& "sendpassword") = "YOUR GMAIL PASSWORD HERE"**
 
 YOUR GMAIL HERE:
