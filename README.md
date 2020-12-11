@@ -1,8 +1,8 @@
 # Minecraft-2B2T-Queue-Alert-Batch-Program
 
-This program is a 100% open source .bat batch file.
-Simply download all 3 files to a folder on your computer,
-then you can link a desktop shortcut to the file names "2B2T Alert System - Startup.bat"
+This program is a 100% open source .bat batch file.  Simply download all 3 files to a folder on your computer, then you can link a desktop shortcut to the file names "2B2T Alert System - Startup.bat"  This program will send you an email when your 2B2T queue position is near 100, 50, and 10.  Once it has sent the email for 10, the program will automatically kill itself.
+
+This program was inspired by R2bEEaton, but improved apon with more alerts.
 
 the only changes you have to make to the code is in the "2B2T Alert System - Notifier.bat" file.
 Simply right-click on that file, hit edit and input your email infornmation as shown below.
